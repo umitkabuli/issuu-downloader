@@ -4,7 +4,7 @@
 # Usage issuu-downloader <issuu doc url> <last page number for download>
 #return  value
 # 0: no error
-# 1:  Usage or wrong parameter count
+# 1: Usage or wrong parameter count
 # 2: url not found
 # 3: issuu documentId not found
 
